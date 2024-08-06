@@ -1,0 +1,32 @@
+06:17:47.191 [main] INFO  api.test.UserTests - ******Createing User******
+06:17:49.943 [main] INFO  api.test.UserTests - *******User Created********
+06:17:49.960 [main] INFO  api.test.UserTests - *******Reading User Info********
+06:17:51.118 [main] INFO  api.test.UserTests - *******User Info is Displayed********
+06:17:51.123 [main] INFO  api.test.UserTests - *******Updating User Info********
+06:17:53.403 [main] INFO  api.test.UserTests - *******User Info Updated********
+06:17:53.414 [main] INFO  api.test.UserTests - *******Deleting User********
+06:17:54.547 [main] INFO  api.test.UserTests - *******User Deleted********
+06:42:43.988 [main] INFO  api.test.UserTests2 - ******Createing User******
+06:42:46.938 [main] INFO  api.test.UserTests2 - *******User Created********
+06:42:46.952 [main] INFO  api.test.UserTests2 - *******Reading User Info********
+06:42:48.065 [main] INFO  api.test.UserTests2 - *******User Info is Displayed********
+06:42:48.069 [main] INFO  api.test.UserTests2 - *******Updating User Info********
+06:42:50.295 [main] INFO  api.test.UserTests2 - *******User Info Updated********
+06:42:50.299 [main] INFO  api.test.UserTests2 - *******Deleting User********
+06:42:51.415 [main] INFO  api.test.UserTests2 - *******User Deleted********
+05:08:15.549 [main] INFO  api.test.UserTests2 - ******Createing User******
+05:08:19.349 [main] INFO  api.test.UserTests2 - *******User Created********
+05:08:19.380 [main] INFO  api.test.UserTests2 - *******Reading User Info********
+05:08:20.614 [main] INFO  api.test.UserTests2 - *******User Info is Displayed********
+05:08:20.616 [main] INFO  api.test.UserTests2 - *******Updating User Info********
+05:08:23.032 [main] INFO  api.test.UserTests2 - *******User Info Updated********
+05:08:23.034 [main] INFO  api.test.UserTests2 - *******Deleting User********
+05:08:24.155 [main] INFO  api.test.UserTests2 - *******User Deleted********
+05:14:42.835 [main] INFO  api.test.UserTests2 - ******Createing User******
+05:14:46.580 [main] INFO  api.test.UserTests2 - *******User Created********
+05:14:46.592 [main] INFO  api.test.UserTests2 - *******Reading User Info********
+05:14:47.780 [main] INFO  api.test.UserTests2 - *******User Info is Displayed********
+05:14:47.780 [main] INFO  api.test.UserTests2 - *******Updating User Info********
+05:14:50.071 [main] INFO  api.test.UserTests2 - *******User Info Updated********
+05:14:50.071 [main] INFO  api.test.UserTests2 - *******Deleting User********
+05:14:51.243 [main] INFO  api.test.UserTests2 - *******User Deleted********
